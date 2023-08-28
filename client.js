@@ -25,5 +25,6 @@ connect();
 
 module.exports = {
   host: "localhost",
-  port: 50541
+  port: 50541,
+  connect
 }
